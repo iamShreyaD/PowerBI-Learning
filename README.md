@@ -20,6 +20,6 @@ Project contents:
 
 • Power BI (.pbix) file containing the full data model, DAX logic, and dashboard
 
-![Dashboard](https://github.com/iamShreyaD/PowerBI-Learning/blob/main/images/Dashboard%201.png)
+![Dashboard](https://github.com/iamShreyaD/PowerBI-Learning/blob/main/dashboard.png)
 
 This project focuses on translating raw data into actionable insights through effective data modeling, DAX calculations, and clear visual storytelling using Power BI.
